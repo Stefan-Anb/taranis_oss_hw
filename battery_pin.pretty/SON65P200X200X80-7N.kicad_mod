@@ -1,0 +1,402 @@
+(footprint "SON65P200X200X80-7N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "wson drv")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC6"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(uuid "172829b9-1f77-4627-a98b-3e5e256e8c87")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TPS25200DRVR"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b0e6920e-06be-495e-ace5-401c66c0dc62")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "SamacSys_Parts:SON65P200X200X80-7N"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9500ddd-c977-4cb5-8c2c-17ea448e3681")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps25200"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53bb9864-214b-43cf-9d5d-bf2e2ab3b18a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "6.5 V/2.8 A eFuse with Overvoltage Clamp"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58d93b04-bea3-498c-967f-c749bad27be3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab40997d-eb5f-4edd-83da-3766135f9068")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b9f9495-1f45-4468-9d03-2a4e4fb63729")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "TPS25200DRVR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f76e637-04bd-434b-bcfb-2f4dd47a542f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "595-TPS25200DRVR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "895d8ee1-e998-4a3e-921d-7d4880da5406")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS25200DRVR?qs=p08Uhw9w2FzQJ8NfE3%252BFYg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6fc3f74c-cee8-4499-b033-14ef36d450d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "TPS25200DRVR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "304952a4-0c4d-4e93-8ab4-aa3775f4dcfd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps25200drvr/texas-instruments?region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b2005bd1-030a-434f-adcc-aab9856a7a99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB Part #" "C128401"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b72d0a9-1ad6-4171-8d5b-74c600939ed2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d98b64f6-af1e-40ca-a66c-5ba270cfe663")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07c27e48-af72-4f26-b285-8079d67b9712")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Type" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2245b2f-851e-467c-8b1c-c04ac40ee231")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB #" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6003d254-bb03-48fb-b642-c8af11200b30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Var" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bc3c73d-3cc7-4d04-94ea-eaca1287cc55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.35 -1.325)
+		(end -1.35 -1.2)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "02edae4f-64c1-47d0-b481-fbd9a9d48294")
+	)
+	(fp_line
+		(start -1.6 -1.3)
+		(end 1.6 -1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f7819a6-794c-416a-b5bf-ed73a8ab42c7")
+	)
+	(fp_line
+		(start -1.6 1.3)
+		(end -1.6 -1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "246d8180-f259-4b3e-ad9a-265e01d880fa")
+	)
+	(fp_line
+		(start 1.6 -1.3)
+		(end 1.6 1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b7db8124-b7c4-46e3-a5f4-487881480adc")
+	)
+	(fp_line
+		(start 1.6 1.3)
+		(end -1.6 1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5423e68e-e207-4919-ab87-e98a27dbd716")
+	)
+	(fp_line
+		(start -1 -1)
+		(end 1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9a079f2e-71d2-4b8c-a221-36c0bcd57749")
+	)
+	(fp_line
+		(start -1 -0.5)
+		(end -0.5 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db0b6962-7981-47dd-ac84-4da62804b078")
+	)
+	(fp_line
+		(start -1 1)
+		(end -1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27c66254-b19e-4386-9c53-1fffe5d460f7")
+	)
+	(fp_line
+		(start 1 -1)
+		(end 1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "847eea91-5854-4bc6-a621-588e050d9a91")
+	)
+	(fp_line
+		(start 1 1)
+		(end -1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6e4a7a8-9314-4153-b51e-37a8f896efba")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "e676abd3-3fbf-422f-aa0f-2f28304fc175")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.05 -0.65 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b62e9729-1e84-4241-a6be-5107fcce379c")
+	)
+	(pad "2" smd rect
+		(at -1.05 0 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ef899262-3e3d-4c3f-b4e3-915cba8ab115")
+	)
+	(pad "3" smd rect
+		(at -1.05 0.65 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3e0ab5e5-7c53-449c-9beb-0673d4ce0cd9")
+	)
+	(pad "4" smd rect
+		(at 1.05 0.65 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7279ba2b-1dbb-4bcd-81b1-9dc388ae0c9d")
+	)
+	(pad "5" smd rect
+		(at 1.05 0 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1736cf10-154b-44fe-a61e-0450053e8c67")
+	)
+	(pad "6" smd rect
+		(at 1.05 -0.65 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7d25d4be-17cf-4d59-9574-b7e92e5a30f3")
+	)
+	(pad "7" smd rect
+		(at 0 0)
+		(size 1.1 1.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0f106099-dc42-41af-81d5-d05898648800")
+	)
+	(model "C:\\Users\\Florian\\Documents\\KiCad\\libraries\\SamacSys_Parts.3dshapes\\TPS25200DRVR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,449 @@
+(footprint "QMB09B03"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "QMB-09B-03-1")
+	(tags "Loudspeaker or Buzzer")
+	(property "Reference" "LS1"
+		(at 0 -1.6 0)
+		(layer "F.SilkS")
+		(uuid "16ce54f9-05ea-41a2-9ce1-dc6baa645cc9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "QMB-09B-03"
+		(at 0 -1.6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "31c6f1b2-eae1-4fad-9402-6cf246fc28b7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "SamacSys_Parts:QMB09B03"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65a7da91-7f95-4c95-86fb-9ae0871e1593")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Jiangsu-Huaneng-Elec-QMB-09B-03_C96256.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd510bee-d194-40db-a63a-c1cbe6de3ca1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Magnetic NO 2700Hz 3V 2 ~ 5V 9mm 9*5.5mm Buzzers"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c30fb92-135e-4dae-8215-b71b3b3ff8cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "5.7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fba3bbb2-4973-4fac-898e-f782c0d45dc3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Jiangsu Huaneng Elec"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3d1409e-bca9-4e00-9450-f014b31f814e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "QMB-09B-03"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "352bf319-4081-4962-bec7-7a4975f84098")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a20f421f-55c9-4738-a4a0-5c84f0a1e72c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "321ff1de-a154-4ec9-91e7-69598167655f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ada057a-25db-462a-b95a-d3b62d1ef498")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd6bcc3a-322d-4958-a105-2efacac65653")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB Part #" "C96256"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf05a453-f636-484b-a9c6-b3e334ae5801")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "330d3072-df84-4e5e-ac88-273c4e0edf78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b9a38bf-d1ac-4e8e-ad71-8eec138b732d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Type" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bfbad4bb-8cc1-47af-a924-debf44a5a0a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB #" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09d42e14-e9b2-4309-9123-ab20eb45c0a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.5 -2)
+		(end -4.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97e531db-7c5e-4407-a642-655ae43d8d2b")
+	)
+	(fp_line
+		(start 0 3.2)
+		(end 0 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b7c9896-5110-47a1-99c6-e4c7aa384336")
+	)
+	(fp_line
+		(start 0 3.3)
+		(end 0 3.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d436b6e-2d6f-4e59-8681-faddfda57d43")
+	)
+	(fp_line
+		(start 0 3.3)
+		(end 0 3.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cdcc7a19-1fba-48b6-bcb5-3accff33ea97")
+	)
+	(fp_line
+		(start 4.5 -2)
+		(end 4.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "06e3a56b-5ab9-4683-a8e1-d28b754d7ccc")
+	)
+	(fp_arc
+		(start -4.5 -2)
+		(mid 0 -6.5)
+		(end 4.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d37898c8-f5bd-44a9-9cda-d60242e9bebf")
+	)
+	(fp_arc
+		(start 0 3.2)
+		(mid 0.05 3.25)
+		(end 0 3.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14534664-5562-447c-8a40-8da04fe3b073")
+	)
+	(fp_arc
+		(start 0 3.2)
+		(mid 0.05 3.25)
+		(end 0 3.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6897d3a6-3bd8-4b2b-92e0-b6ae62577af9")
+	)
+	(fp_arc
+		(start 0 3.3)
+		(mid -0.05 3.25)
+		(end 0 3.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "678a3a0b-229e-4f58-b1cf-6328bdd05eb6")
+	)
+	(fp_arc
+		(start 4.5 -2)
+		(mid 0 2.5)
+		(end -4.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41bdc66b-98d3-4ae2-b0ba-d7f8ab01f6de")
+	)
+	(fp_line
+		(start -5.5 -7.5)
+		(end 5.5 -7.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "16626003-33c7-44bd-986f-fa6a78987acf")
+	)
+	(fp_line
+		(start -5.5 4.3)
+		(end -5.5 -7.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c5037e20-b4db-4e53-a7d2-8234869f6063")
+	)
+	(fp_line
+		(start 5.5 -7.5)
+		(end 5.5 4.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f5537df2-4b5f-4206-a406-0ca82d934728")
+	)
+	(fp_line
+		(start 5.5 4.3)
+		(end -5.5 4.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c08ebbfe-5fb5-4840-bc01-2a2a930ea121")
+	)
+	(fp_line
+		(start -4.5 -2)
+		(end -4.5 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "191e8a84-1458-49a9-8dbb-f40fccbd46c3")
+	)
+	(fp_line
+		(start 4.5 -2)
+		(end 4.5 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e5fa375a-560f-4aa3-aeb4-e3a136030e0a")
+	)
+	(fp_arc
+		(start -4.5 -2)
+		(mid 0 -6.5)
+		(end 4.5 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6c83c6d4-6b9d-46b1-ad62-20f769445c35")
+	)
+	(fp_arc
+		(start 4.5 -2)
+		(mid 0 2.5)
+		(end -4.5 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3a8698a0-067f-42fd-bfa1-7982ef8866cc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -1.6 0)
+		(layer "F.Fab")
+		(uuid "75fd55d0-875d-44ed-8b73-32ab4479fbce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5a7c03a8-e28c-4596-9fd1-e0b3191ae970")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -4)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "98dc4295-7672-4ec4-8dda-baf28e612618")
+	)
+	(model "C:\\Users\\Florian\\Documents\\KiCad\\libraries\\SamacSys_Parts.3dshapes\\QMB-09B-03.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,121 @@
+(footprint "Shunt"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.8796 -2.5908 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "dc9b899d-fe0d-4912-aa21-c3d87d6aab03")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Shunt"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3f01f135-7d0e-45eb-8be1-5507f53cdb74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ab78010-e1f2-4d41-8673-48f22f2a325d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2121c277-d3d0-4d35-b9cf-f80b25674878")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(net_tie_pad_groups "1,2" "3,4")
+	(fp_rect
+		(start -3.81 -1.905)
+		(end 3.81 1.905)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "bff62e24-19d2-4d89-b369-6cda18eea130")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5deb0858-fbca-4465-8168-9453da868de0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.16 0 90)
+		(size 3.68 2.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "3dba7fe8-842e-4f8d-9361-ac2cbc9427f6")
+	)
+	(pad "2" smd rect
+		(at -0.635 0 90)
+		(size 0.5 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "150d9628-4509-4170-ac05-ff86d01ed6a7")
+	)
+	(pad "3" smd rect
+		(at 0.635 0 90)
+		(size 0.5 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "addf9557-c758-4917-bba4-08820458f026")
+	)
+	(pad "4" smd roundrect
+		(at 2.16 0 90)
+		(size 3.68 2.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "044cc8f9-cbc9-46db-a225-c7e4bc712eff")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

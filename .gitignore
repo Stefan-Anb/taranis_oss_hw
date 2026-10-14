@@ -1,0 +1,31 @@
+﻿# KiCad: lokale/temporaere Dateien
+*.kicad_prl
+*.lck
+*-backups/
+.history/
+fp-info-cache
+*.bak
+*-bak
+*.kicad_sch-bak
+_autosave-*
+*-rescue.*
+*.kicad_pcb-bak
+
+# Fertigungsausgaben
+production/
+gerber/
+gerbers/
+*.zip
+*.gbr
+*.drl
+*.gbrjob
+
+# Exportierte 3D-Modelle
+*.step
+*.stp
+*.STEP
+*.STP
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BMS-lib")(type "KiCad")(uri "${KIPRJMOD}/BMS-lib.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS")(type "KiCad")(uri "${KIPRJMOD}/tps48111.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS62")(type "KiCad")(uri "${KIPRJMOD}/tps62a01.kicad_sym")(options "")(descr ""))
+)
